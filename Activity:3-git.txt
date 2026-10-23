@@ -1,2 +1,3 @@
 Testing 1st attempt git activity.
 Hiii! I'm Harly Vicente C. Camara from BSIS 3A
+Changes from Activity:3-git.txt file is commited via web github. 
